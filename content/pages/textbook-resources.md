@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Textbook Resources
-type: page
 uid: 6215e093-3730-40f7-3b5c-cd424e8d46de
 ---
 

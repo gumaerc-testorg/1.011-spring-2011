@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Syllabus
 parent_uid: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
 title: Keywords
-type: page
 uid: 7a9554ab-ff1a-75b6-f6d6-88de3c324094
 ---
 

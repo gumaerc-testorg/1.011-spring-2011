@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: 314b9f96-fe11-689c-df83-246d3d760637
 title: Project Evaluation Checklist
-type: page
 uid: 6ae88a7c-13ea-9f8a-b8da-68a6c7343768
 ---
 
