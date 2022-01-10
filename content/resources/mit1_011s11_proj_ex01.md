@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on project example, Sydney Opera House.
-file: /media/courses/1-011-project-evaluation-spring-2011/91e34cd9b5530dc0817022821ae6381e_MIT1_011S11_proj_ex01.pdf
-file_location: /coursemedia/1-011-project-evaluation-spring-2011/91e34cd9b5530dc0817022821ae6381e_MIT1_011S11_proj_ex01.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-011-project-evaluation-spring-2011/91e34cd9b5530dc0817022821ae6381e_MIT1_011S11_proj_ex01.pdf
 file_type: application/pdf
 resourcetype: Document
 title: MIT1_011S11_proj_ex01.pdf
