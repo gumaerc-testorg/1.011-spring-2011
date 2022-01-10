@@ -66,7 +66,10 @@ Grading
 -------
 
 {{< tableopen >}}
-Grading criteria.{{< theadopen >}}
+{{< tablecaptionopen >}}
+Grading criteria.
+{{< tablecaptionclose >}}
+{{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}
 ACTIVITIES

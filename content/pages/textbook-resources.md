@@ -7,7 +7,10 @@ uid: 6215e093-3730-40f7-3b5c-cd424e8d46de
 A complete set of supplementary slides is included below to complement the course textbook.
 
 {{< tableopen >}}
-Course textbook files.{{< theadopen >}}
+{{< tablecaptionopen >}}
+Course textbook files.
+{{< tablecaptionclose >}}
+{{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}
 CHAPTER
