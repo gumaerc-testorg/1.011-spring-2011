@@ -5,9 +5,6 @@ uid: 33dce1c1-af39-ae75-989e-6f83a9b72843
 ---
 
 {{< tableopen >}}
-{{< tablecaptionopen >}}
-Assignment files.
-{{< tablecaptionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}

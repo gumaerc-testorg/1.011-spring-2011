@@ -66,9 +66,6 @@ Grading
 -------
 
 {{< tableopen >}}
-{{< tablecaptionopen >}}
-Grading criteria.
-{{< tablecaptionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}

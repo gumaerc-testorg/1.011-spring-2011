@@ -7,9 +7,6 @@ uid: 3a422445-5433-4f71-bf03-20890ea05b4a
 Selected lecture slides are available below.
 
 {{< tableopen >}}
-{{< tablecaptionopen >}}
-Lecture notes files.
-{{< tablecaptionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}

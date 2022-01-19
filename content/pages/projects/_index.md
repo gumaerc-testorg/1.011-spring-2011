@@ -57,9 +57,6 @@ Project Deliverables
 --------------------
 
 {{< tableopen >}}
-{{< tablecaptionopen >}}
-Project deliverables.
-{{< tablecaptionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}
