@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 314b9f96-fe11-689c-df83-246d3d760637
 ---
@@ -162,5 +165,5 @@ Atlanta BeltLine ([PDF]({{< baseurl >}}/resources/mit1_011s11_proj_ex02))
 
 In addition to the project deliverables, students are expected to make two oral presentations on their term project:
 
-*   Mini-presentation (<7 minutes) on your initial ideas — Recitation 6.
+*   Mini-presentation (\<7 minutes) on your initial ideas — Recitation 6.
 *   Final presentation at end of term — Lec #23, 24 and 25.

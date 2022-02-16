@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to managing projects and programs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-011-project-evaluation-spring-2011/e179da7d1761a0b24813e0a3c80a9dca_MIT1_011S11_chpt14a.pdf
+file: /media/courses/1-011-project-evaluation-spring-2011/e179da7d1761a0b24813e0a3c80a9dca_MIT1_011S11_chpt14a.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Textbook Resources
+parent_type: CourseSection
 resourcetype: Document
 title: MIT1_011S11_chpt14a.pdf
 uid: e179da7d-1761-a0b2-4813-e0a3c80a9dca

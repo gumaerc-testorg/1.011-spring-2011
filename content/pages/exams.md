@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 5d340f30-969a-28be-1f3e-f60996c1f18b
 ---
@@ -51,7 +54,7 @@ Cheney, Kyle. "[Decaying Dams Pose Risk, Engineers Say](http://www.boston.com/li
 
 This article discusses the condition of dams across the state of Massachusetts and highlights the various impacts of decay and the subsequent need for action. Senator Marc Pacheco has proposed a bill establishing a loan program to provide funding to cities and towns for repair or decommissioning of deteriorating dams.
 
-1.  Identify 5 important stakeholders. Describe their interests and whether they would favor the legislation or not. You should be able to do this in <1/3-page per stakeholder.
+1.  Identify 5 important stakeholders. Describe their interests and whether they would favor the legislation or not. You should be able to do this in \<1/3-page per stakeholder.
 
 (15 points)
 
@@ -64,6 +67,6 @@ A sentence or two for each type of impact should suffice.
 
 (9 points)
 
-6.  Assume that the bill has passed and you have the task of developing a prioritized list of dams to receive funding. Explain in <1 page how you would go about this task.
+6.  Assume that the bill has passed and you have the task of developing a prioritized list of dams to receive funding. Explain in \<1 page how you would go about this task.
 
 (16 points)
