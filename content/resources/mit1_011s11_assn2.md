@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 33dce1c1-af39-ae75-989e-6f83a9b72843
 resourcetype: Document
 title: MIT1_011S11_assn2.pdf
 uid: 314cb8ab-4cb9-5044-18c5-8f25ce5b326c

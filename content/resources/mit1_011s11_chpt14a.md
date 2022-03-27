@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Resources
 parent_type: CourseSection
+parent_uid: 6215e093-3730-40f7-3b5c-cd424e8d46de
 resourcetype: Document
 title: MIT1_011S11_chpt14a.pdf
 uid: e179da7d-1761-a0b2-4813-e0a3c80a9dca
