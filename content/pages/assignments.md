@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn1-1)) (Courtesy of John Wiley & Sons. Used with permission.)
+({{% resource_link 380cb24d-60d3-88e3-13e7-10a65ccf7572 "PDF" %}}) (Courtesy of John Wiley & Sons. Used with permission.)
 
 Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in the World with 42 Million People](http://www.telegraph.co.uk/news/worldnews/asia/china/8278315/China-to-create-largest-mega-city-in-the-world-with-42-million-people.html)." _The Telegraph_, January 24, 2011.
 
@@ -40,7 +41,7 @@ Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in t
 1.2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn1-2)) (Courtesy of John Wiley & Sons. Used with permission.)
+({{% resource_link d24f8772-67b3-32d7-7b20-48b3b4dd08e4 "PDF" %}}) (Courtesy of John Wiley & Sons. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in t
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn2)) (Courtesy of John Wiley & Sons. Used with permission.)
+({{% resource_link 314cb8ab-4cb9-5044-18c5-8f25ce5b326c "PDF" %}}) (Courtesy of John Wiley & Sons. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in t
 3.1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn3-1))
+({{% resource_link 8490c5e5-c9c1-671d-10ec-5b36e3d3339d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in t
 3.2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn3-2))
+({{% resource_link 1ab9eb72-af2d-badb-2f4a-c44074c80b75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in t
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_011s11_assn4))
+({{% resource_link 5da532c2-98cf-c954-5174-3015bc27e831 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

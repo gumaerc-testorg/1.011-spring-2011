@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains a list of issues that should be covered in the project
+  evaluation report.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
