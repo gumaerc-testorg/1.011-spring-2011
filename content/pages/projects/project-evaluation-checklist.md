@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This page contains a list of issues that should be covered in the project
+  evaluation report.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 314b9f96-fe11-689c-df83-246d3d760637
 title: Project Evaluation Checklist
 uid: 6ae88a7c-13ea-9f8a-b8da-68a6c7343768

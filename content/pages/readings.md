@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topics and
+  information on the course textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 96b480fa-dee1-1dac-1a05-134adc9d261b
 ---
@@ -259,9 +264,9 @@ Dealing with uncertainty
 {{< tdopen >}}
 
 
-Sussman, Joe. "The Tsunami That Wasn't." Teaching Note, March 7, 2010. ([PDF]({{< baseurl >}}/resources/mit1_011s11_read16a))
+Sussman, Joe. "The Tsunami That Wasn't." Teaching Note, March 7, 2010. ({{% resource_link bf8c03d8-6692-0406-6b89-e18abb4ce807 "PDF" %}})
 
-———. "How Little Mistakes Can Lead to Big Differences in Outcomes: The Weather." Teaching Note, February 25, 2010. ([PDF]({{< baseurl >}}/resources/mit1_011s11_read16b))
+———. "How Little Mistakes Can Lead to Big Differences in Outcomes: The Weather." Teaching Note, February 25, 2010. ({{% resource_link 3f52aa5d-b5a0-c9d7-38c6-550e551b1ec6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -275,7 +280,7 @@ L17
 Dealing with uncertainty: Decision trees
 {{< tdclose >}}
 {{< tdopen >}}
-Sussman, Joe. "Did Belichick Make the Right Call?" Teaching Note, February 19, 2010. ([PDF]({{< baseurl >}}/resources/mit1_011s11_read17))
+Sussman, Joe. "Did Belichick Make the Right Call?" Teaching Note, February 19, 2010. ({{% resource_link a28f9873-5270-c599-2643-ddaaf23edae6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +292,7 @@ L18
 Dealing with uncertainty: Real options
 {{< tdclose >}}
 {{< tdopen >}}
-Sussman, Joe. "Real Options — A Simple Illustration." Teaching Note, April 28, 2010. ([PDF]({{< baseurl >}}/resources/mit1_011s11_read18))
+Sussman, Joe. "Real Options — A Simple Illustration." Teaching Note, April 28, 2010. ({{% resource_link 8268ff67-01ec-d7a8-7c89-079da32e7ff5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

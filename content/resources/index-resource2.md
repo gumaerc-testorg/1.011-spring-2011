@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-011-project-evaluation-spring-2011/index.png
-file_type: image/png
+file: /media/courses/1-011-project-evaluation-spring-2011/index.jpg
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
@@ -10,8 +10,8 @@ image_metadata:
 learning_resource_types: []
 license: ''
 resourcetype: Image
-title: index.png
-uid: be9fedda-2131-4503-b5d9-c6e6778e4058
+title: index.jpg
+uid: bb5bcfae-1881-42c6-bbe1-c1d2119c4dd2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
