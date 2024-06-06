@@ -18,7 +18,7 @@ ASSIGNMENTS
 
 Basic Concepts 1 ({{% resource_link "380cb24d-60d3-88e3-13e7-10a65ccf7572" "PDF" %}}) (Courtesy of John Wiley & Sons. Used with permission.)
 
-Read: Moore, Malcolm, and Peter Foster. "{{% resource_link "9f276409-45ec-48bd-8d65-974d35e51c68" "China to Create Largest Mega City in the World with 42 Million People" %}}." *The Telegraph*, January 24, 2011.
+Read: Moore, Malcolm, and Peter Foster. "[China to Create Largest Mega City in the World with 42 Million People](http://www.telegraph.co.uk/news/worldnews/asia/china/8278315/China-to-create-largest-mega-city-in-the-world-with-42-million-people.html)." *The Telegraph*, January 24, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1.2
