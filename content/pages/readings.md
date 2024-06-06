@@ -13,7 +13,7 @@ uid: 96b480fa-dee1-1dac-1a05-134adc9d261b
 
 \[Martland\] = Martland, Carl D. *Toward More Sustainable Infrastructure: Project Evaluation for Planners and Engineers*. Wiley, 2011. ISBN: 9780470448762. 
 
-{{% resource_link "98e7523b-cb8e-4a4a-8814-680fa17937ff" "*Project Evaluation: Essays and Case Studies*" %}}, based upon the textbook, is available as two stand-alone volumes.  Volume I provides an overview of project evaluation as a multi-dimensional process aimed at creating projects that meet the needs of society. Volume II examines the equivalence relationships that can be used to compare cash flows or economic costs and benefits over the life of a project.
+[*Project Evaluation: Essays and Case Studies*](https://ocw.mit.edu/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/), based upon the textbook, is available as two stand-alone volumes.  Volume I provides an overview of project evaluation as a multi-dimensional process aimed at creating projects that meet the needs of society. Volume II examines the equivalence relationships that can be used to compare cash flows or economic costs and benefits over the life of a project.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -26,7 +26,7 @@ L1
 {{< tdclose >}}{{< tdopen >}}
 Introduction and motivation; Initial discussion of project
 {{< tdclose >}}{{< tdopen >}}
-Plotkin, Natasha. "{{% resource_link "606c6496-eb23-48c2-ba08-fd1367553919" "To-do Maintenance: $2.1 Billion Required" %}}." *The Tech*, January 19, 2011.
+Plotkin, Natasha. "[To-do Maintenance: $2.1 Billion Required](http://tech.mit.edu/V130/N63/deferredmaintenance.html)." *The Tech*, January 19, 2011.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
 {{< tdclose >}}{{< tdopen >}}
@@ -75,7 +75,7 @@ Discount rates, minimally acceptable rate of return (MARR), rate of return on in
 
 "Choosing a Discount Rate." Chapter 8 in \[Martland\].
 
-Stolberg, Sheryl Gay. "{{% resource_link "cf2a8189-205a-41d0-a4a3-76ed766cacf5" "Obama Unveils Wireless Expansion Plan" %}}." *New York Times*, February 10, 2011.
+Stolberg, Sheryl Gay. "[Obama Unveils Wireless Expansion Plan](http://www.nytimes.com/2011/02/11/us/politics/11obama.html?_r=1)." *New York Times*, February 10, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L7
@@ -132,7 +132,7 @@ L14
 {{< tdclose >}}{{< tdopen >}}
 HSR Case (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Eilperin, Juliet. "{{% resource_link "f8ef0f7d-a30c-4c30-9ed2-19f34bd08317" "Great Plains Oil Pipeline Plan Sparks Grass-roots Activism, High-stakes Lobbying" %}}." *Washington Post*, January 23, 2011.
+Eilperin, Juliet. "[Great Plains Oil Pipeline Plan Sparks Grass-roots Activism, High-stakes Lobbying](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/23/AR2011012303411.html)." *Washington Post*, January 23, 2011.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L15
 {{< tdclose >}}{{< tdopen >}}
