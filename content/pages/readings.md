@@ -26,7 +26,7 @@ L1
 {{< tdclose >}}{{< tdopen >}}
 Introduction and motivation; Initial discussion of project
 {{< tdclose >}}{{< tdopen >}}
-Plotkin, Natasha. "[To-do Maintenance: $2.1 Billion Required](http://tech.mit.edu/V130/N63/deferredmaintenance.html)." *The Tech*, January 19, 2011.
+Plotkin, Natasha. "[To-do Maintenance: $2.1 Billion Required](https://thetech.com/2011/01/19/deferredmaintenance-v130-n63)." *The Tech*, January 19, 2011.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
 {{< tdclose >}}{{< tdopen >}}
