@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to managing projects and programs.
-file: /ol-ocw-studio-app/courses/1-011-project-evaluation-spring-2011/e179da7d1761a0b24813e0a3c80a9dca_MIT1_011S11_chpt14a.pdf
+file: /courses/1-011-project-evaluation-spring-2011/e179da7d1761a0b24813e0a3c80a9dca_MIT1_011S11_chpt14a.pdf
 file_size: 925695
 file_type: application/pdf
 learning_resource_types: []
