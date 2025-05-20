@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the assignment 4 of this course.
-file: /ol-ocw-studio-app/courses/1-011-project-evaluation-spring-2011/5da532c298cfc95451743015bc27e831_MIT1_011S11_assn4.pdf
+file: /courses/1-011-project-evaluation-spring-2011/5da532c298cfc95451743015bc27e831_MIT1_011S11_assn4.pdf
 file_size: 23083
 file_type: application/pdf
 learning_resource_types:
